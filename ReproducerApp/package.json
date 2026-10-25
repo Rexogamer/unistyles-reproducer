@@ -10,10 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@rexovolt/react-native-markdown-display": "^10.0.1",
     "react": "19.3.0",
     "react-native": "0.88.0",
-    "@react-native/new-app-screen": "0.88.0",
-    "react-native-safe-area-context": "^5.5.2"
+    "react-native-nitro-modules": "0.37.1",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-unistyles": "^3.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
